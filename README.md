@@ -1,2 +1,10 @@
-# iaeng_DTV_JDSG
-Este repositorio es para el proyecto del curso de inteligencia artificial de la Universidad de Antioquia 
+# Proyecto House Prices - Advanced Regression Techniques
+
+## Miembros del grupo
+
+- Juan David Sandoval Guerrero, CC 1123633172, Ingeniería Eléctrica
+- Daniela tuberquia villa, CC 1214744776, Ingeniería Eléctrica
+
+## Datos
+
+Los datos del proyecto vienen de [La competición House Prices - Advanced Regression Techniques](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/overview/description)

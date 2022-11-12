@@ -13,3 +13,4 @@ Los datos del proyecto vienen de [La competición House Prices - Advanced Regres
 ## videos
 
 - [Video segunda entrega](https://www.youtube.com/watch?v=XDI9aTKPc-c)
+- [Video Entrega final](https://www.youtube.com/watch?v=tGtq8hDRgPo)
